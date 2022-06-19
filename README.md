@@ -1,0 +1,1 @@
+# ts-sequelize-express-template
